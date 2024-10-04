@@ -1,0 +1,17 @@
+package.xml
+setup.cfg
+setup.py
+../../build/localization_server2/localization_server2.egg-info/PKG-INFO
+../../build/localization_server2/localization_server2.egg-info/SOURCES.txt
+../../build/localization_server2/localization_server2.egg-info/dependency_links.txt
+../../build/localization_server2/localization_server2.egg-info/entry_points.txt
+../../build/localization_server2/localization_server2.egg-info/requires.txt
+../../build/localization_server2/localization_server2.egg-info/top_level.txt
+../../build/localization_server2/localization_server2.egg-info/zip-safe
+config/amcl_config.yaml
+launch/localization2.launch.py
+localization_server2/__init__.py
+resource/localization_server2
+test/test_copyright.py
+test/test_flake8.py
+test/test_pep257.py

@@ -1,0 +1,25 @@
+[3.683s] Invoking command in '/home/user/ros2_ws/src/path_planner_server': PYTHONPATH=/home/user/ros2_ws/build/path_planner_server/prefix_override:/home/user/ros2_ws/install/path_planner_server/lib/python3.10/site-packages:${PYTHONPATH} _=/usr/bin/env /usr/bin/python3 setup.py egg_info --egg-base ../../build/path_planner_server build --build-base /home/user/ros2_ws/build/path_planner_server/build install --record /home/user/ros2_ws/build/path_planner_server/install.log --single-version-externally-managed
+[4.688s] running egg_info
+[4.689s] writing ../../build/path_planner_server/path_planner_server.egg-info/PKG-INFO
+[4.689s] writing dependency_links to ../../build/path_planner_server/path_planner_server.egg-info/dependency_links.txt
+[4.690s] writing entry points to ../../build/path_planner_server/path_planner_server.egg-info/entry_points.txt
+[4.690s] writing requirements to ../../build/path_planner_server/path_planner_server.egg-info/requires.txt
+[4.691s] writing top-level names to ../../build/path_planner_server/path_planner_server.egg-info/top_level.txt
+[4.692s] reading manifest file '../../build/path_planner_server/path_planner_server.egg-info/SOURCES.txt'
+[4.694s] writing manifest file '../../build/path_planner_server/path_planner_server.egg-info/SOURCES.txt'
+[4.694s] running build
+[4.695s] running build_py
+[4.695s] running install
+[4.695s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[4.695s]   warnings.warn(
+[4.696s] running install_lib
+[4.698s] running install_data
+[4.699s] copying config/tb3_0_bt_navigator.yaml -> /home/user/ros2_ws/install/path_planner_server/share/path_planner_server/config
+[4.700s] copying config/tb3_1_bt_navigator.yaml -> /home/user/ros2_ws/install/path_planner_server/share/path_planner_server/config
+[4.700s] running install_egg_info
+[4.702s] removing '/home/user/ros2_ws/install/path_planner_server/lib/python3.10/site-packages/path_planner_server-0.0.0-py3.10.egg-info' (and everything under it)
+[4.702s] Copying ../../build/path_planner_server/path_planner_server.egg-info to /home/user/ros2_ws/install/path_planner_server/lib/python3.10/site-packages/path_planner_server-0.0.0-py3.10.egg-info
+[4.703s] running install_scripts
+[4.791s] Installing Nav_To_Pose_Action_Client script to /home/user/ros2_ws/install/path_planner_server/lib/path_planner_server
+[4.792s] writing list of installed files to '/home/user/ros2_ws/build/path_planner_server/install.log'
+[5.025s] Invoked command in '/home/user/ros2_ws/src/path_planner_server' returned '0': PYTHONPATH=/home/user/ros2_ws/build/path_planner_server/prefix_override:/home/user/ros2_ws/install/path_planner_server/lib/python3.10/site-packages:${PYTHONPATH} _=/usr/bin/env /usr/bin/python3 setup.py egg_info --egg-base ../../build/path_planner_server build --build-base /home/user/ros2_ws/build/path_planner_server/build install --record /home/user/ros2_ws/build/path_planner_server/install.log --single-version-externally-managed

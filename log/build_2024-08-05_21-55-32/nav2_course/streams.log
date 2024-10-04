@@ -1,0 +1,47 @@
+[0.984s] Invoking command in '/home/user/ros2_ws/build/nav2_course': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/user/ros2_ws/install/localization_sever:/home/user/ros2_ws/install/nav2_project:/home/user/ros2_ws/install/map_server:/home/user/ros2_ws/install/localization_server2:/home/user/ros2_ws/install/localization_server:/home/user/ros2_ws/install/cartographer_slam _=/usr/bin/env /usr/bin/cmake --build /home/user/ros2_ws/build/nav2_course -- -j8 -l8
+[1.454s] Invoked command in '/home/user/ros2_ws/build/nav2_course' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/user/ros2_ws/install/localization_sever:/home/user/ros2_ws/install/nav2_project:/home/user/ros2_ws/install/map_server:/home/user/ros2_ws/install/localization_server2:/home/user/ros2_ws/install/localization_server:/home/user/ros2_ws/install/cartographer_slam _=/usr/bin/env /usr/bin/cmake --build /home/user/ros2_ws/build/nav2_course -- -j8 -l8
+[1.662s] Invoking command in '/home/user/ros2_ws/build/nav2_course': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/user/ros2_ws/install/localization_sever:/home/user/ros2_ws/install/nav2_project:/home/user/ros2_ws/install/map_server:/home/user/ros2_ws/install/localization_server2:/home/user/ros2_ws/install/localization_server:/home/user/ros2_ws/install/cartographer_slam _=/usr/bin/env /usr/bin/cmake --install /home/user/ros2_ws/build/nav2_course
+[1.709s] -- Install configuration: "Release"
+[1.710s] -- Up-to-date: /home/user/ros2_ws/install/nav2_course/share/nav2_course/launch
+[1.710s] -- Up-to-date: /home/user/ros2_ws/install/nav2_course/share/nav2_course/launch/map_saver.launch.py
+[1.710s] -- Up-to-date: /home/user/ros2_ws/install/nav2_course/share/nav2_course/launch/localization_launch.py
+[1.710s] -- Up-to-date: /home/user/ros2_ws/install/nav2_course/share/nav2_course/launch/rviz.launch.py
+[1.710s] -- Up-to-date: /home/user/ros2_ws/install/nav2_course/share/nav2_course/launch/map_server_launch.py
+[1.710s] -- Up-to-date: /home/user/ros2_ws/install/nav2_course/share/nav2_course/launch/nav2_demo.launch.py
+[1.710s] -- Up-to-date: /home/user/ros2_ws/install/nav2_course/share/nav2_course/launch/tb3_world_navigation_with_tools_launch.py
+[1.711s] -- Up-to-date: /home/user/ros2_ws/install/nav2_course/share/nav2_course/launch/nav2_complete.launch.py
+[1.711s] -- Up-to-date: /home/user/ros2_ws/install/nav2_course/share/nav2_course/launch/navigation2_launch.py
+[1.711s] -- Up-to-date: /home/user/ros2_ws/install/nav2_course/share/nav2_course/config
+[1.711s] -- Up-to-date: /home/user/ros2_ws/install/nav2_course/share/nav2_course/config/nav2_house_sim_params.yaml
+[1.711s] -- Up-to-date: /home/user/ros2_ws/install/nav2_course/share/nav2_course/config/navigate_w_replanning_and_recovery_old.xml
+[1.711s] -- Up-to-date: /home/user/ros2_ws/install/nav2_course/share/nav2_course/config/turtlebot3_world.yaml
+[1.711s] -- Up-to-date: /home/user/ros2_ws/install/nav2_course/share/nav2_course/config/turtlebot3_world.pgm
+[1.712s] -- Up-to-date: /home/user/ros2_ws/install/nav2_course/share/nav2_course/config/default.rviz
+[1.712s] -- Up-to-date: /home/user/ros2_ws/install/nav2_course/share/nav2_course/config/navigate_w_replanning_and_recovery.xml
+[1.712s] -- Up-to-date: /home/user/ros2_ws/install/nav2_course/share/nav2_course/config/nav2_default_view.rviz
+[1.712s] -- Up-to-date: /home/user/ros2_ws/install/nav2_course/share/nav2_course/config/nav2.yaml
+[1.712s] -- Up-to-date: /home/user/ros2_ws/install/nav2_course/share/nav2_course/config/localization_params.yaml
+[1.712s] -- Up-to-date: /home/user/ros2_ws/install/nav2_course/share/nav2_course/config/nav2_params.yaml
+[1.712s] -- Up-to-date: /home/user/ros2_ws/install/nav2_course/share/nav2_course/worlds
+[1.713s] -- Up-to-date: /home/user/ros2_ws/install/nav2_course/share/nav2_course/worlds/waffle.model
+[1.713s] -- Up-to-date: /home/user/ros2_ws/install/nav2_course/share/nav2_course/worlds/world_only.model
+[1.713s] -- Up-to-date: /home/user/ros2_ws/install/nav2_course/share/nav2_course/worlds/house_waffle.model
+[1.713s] -- Up-to-date: /home/user/ros2_ws/install/nav2_course/share/nav2_course/maps
+[1.713s] -- Up-to-date: /home/user/ros2_ws/install/nav2_course/share/nav2_course/maps/turtlebot_area.yaml
+[1.713s] -- Up-to-date: /home/user/ros2_ws/install/nav2_course/share/nav2_course/maps/turtlebot_area.pgm
+[1.716s] -- Up-to-date: /home/user/ros2_ws/install/nav2_course/share/ament_index/resource_index/package_run_dependencies/nav2_course
+[1.716s] -- Up-to-date: /home/user/ros2_ws/install/nav2_course/share/ament_index/resource_index/parent_prefix_path/nav2_course
+[1.716s] -- Up-to-date: /home/user/ros2_ws/install/nav2_course/share/nav2_course/environment/ament_prefix_path.sh
+[1.716s] -- Up-to-date: /home/user/ros2_ws/install/nav2_course/share/nav2_course/environment/ament_prefix_path.dsv
+[1.716s] -- Up-to-date: /home/user/ros2_ws/install/nav2_course/share/nav2_course/environment/path.sh
+[1.716s] -- Up-to-date: /home/user/ros2_ws/install/nav2_course/share/nav2_course/environment/path.dsv
+[1.717s] -- Up-to-date: /home/user/ros2_ws/install/nav2_course/share/nav2_course/local_setup.bash
+[1.717s] -- Up-to-date: /home/user/ros2_ws/install/nav2_course/share/nav2_course/local_setup.sh
+[1.717s] -- Up-to-date: /home/user/ros2_ws/install/nav2_course/share/nav2_course/local_setup.zsh
+[1.717s] -- Up-to-date: /home/user/ros2_ws/install/nav2_course/share/nav2_course/local_setup.dsv
+[1.717s] -- Installing: /home/user/ros2_ws/install/nav2_course/share/nav2_course/package.dsv
+[1.717s] -- Up-to-date: /home/user/ros2_ws/install/nav2_course/share/ament_index/resource_index/packages/nav2_course
+[1.717s] -- Up-to-date: /home/user/ros2_ws/install/nav2_course/share/nav2_course/cmake/nav2_courseConfig.cmake
+[1.718s] -- Up-to-date: /home/user/ros2_ws/install/nav2_course/share/nav2_course/cmake/nav2_courseConfig-version.cmake
+[1.718s] -- Up-to-date: /home/user/ros2_ws/install/nav2_course/share/nav2_course/package.xml
+[1.726s] Invoked command in '/home/user/ros2_ws/build/nav2_course' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/user/ros2_ws/install/localization_sever:/home/user/ros2_ws/install/nav2_project:/home/user/ros2_ws/install/map_server:/home/user/ros2_ws/install/localization_server2:/home/user/ros2_ws/install/localization_server:/home/user/ros2_ws/install/cartographer_slam _=/usr/bin/env /usr/bin/cmake --install /home/user/ros2_ws/build/nav2_course

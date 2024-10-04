@@ -1,0 +1,39 @@
+[1.089s] Invoking command in '/home/user/ros2_ws/src/cartographer_slam': PYTHONPATH=/home/user/ros2_ws/build/cartographer_slam/prefix_override:/home/user/ros2_ws/install/cartographer_slam/lib/python3.10/site-packages:${PYTHONPATH} _=/usr/bin/env /usr/bin/python3 setup.py egg_info --egg-base ../../build/cartographer_slam build --build-base /home/user/ros2_ws/build/cartographer_slam/build install --record /home/user/ros2_ws/build/cartographer_slam/install.log --single-version-externally-managed
+[1.402s] running egg_info
+[1.403s] creating ../../build/cartographer_slam/cartographer_slam.egg-info
+[1.404s] writing ../../build/cartographer_slam/cartographer_slam.egg-info/PKG-INFO
+[1.404s] writing dependency_links to ../../build/cartographer_slam/cartographer_slam.egg-info/dependency_links.txt
+[1.404s] writing entry points to ../../build/cartographer_slam/cartographer_slam.egg-info/entry_points.txt
+[1.404s] writing requirements to ../../build/cartographer_slam/cartographer_slam.egg-info/requires.txt
+[1.404s] writing top-level names to ../../build/cartographer_slam/cartographer_slam.egg-info/top_level.txt
+[1.404s] writing manifest file '../../build/cartographer_slam/cartographer_slam.egg-info/SOURCES.txt'
+[1.406s] reading manifest file '../../build/cartographer_slam/cartographer_slam.egg-info/SOURCES.txt'
+[1.407s] writing manifest file '../../build/cartographer_slam/cartographer_slam.egg-info/SOURCES.txt'
+[1.408s] running build
+[1.409s] running build_py
+[1.409s] creating /home/user/ros2_ws/build/cartographer_slam/build
+[1.409s] creating /home/user/ros2_ws/build/cartographer_slam/build/lib
+[1.409s] creating /home/user/ros2_ws/build/cartographer_slam/build/lib/cartographer_slam
+[1.409s] copying cartographer_slam/__init__.py -> /home/user/ros2_ws/build/cartographer_slam/build/lib/cartographer_slam
+[1.409s] running install
+[1.410s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[1.410s]   warnings.warn(
+[1.412s] running install_lib
+[1.412s] creating /home/user/ros2_ws/install/cartographer_slam/lib/python3.10/site-packages/cartographer_slam
+[1.412s] copying /home/user/ros2_ws/build/cartographer_slam/build/lib/cartographer_slam/__init__.py -> /home/user/ros2_ws/install/cartographer_slam/lib/python3.10/site-packages/cartographer_slam
+[1.412s] byte-compiling /home/user/ros2_ws/install/cartographer_slam/lib/python3.10/site-packages/cartographer_slam/__init__.py to __init__.cpython-310.pyc
+[1.416s] running install_data
+[1.416s] creating /home/user/ros2_ws/install/cartographer_slam/share/ament_index
+[1.416s] creating /home/user/ros2_ws/install/cartographer_slam/share/ament_index/resource_index
+[1.416s] creating /home/user/ros2_ws/install/cartographer_slam/share/ament_index/resource_index/packages
+[1.416s] copying resource/cartographer_slam -> /home/user/ros2_ws/install/cartographer_slam/share/ament_index/resource_index/packages
+[1.416s] copying package.xml -> /home/user/ros2_ws/install/cartographer_slam/share/cartographer_slam
+[1.416s] creating /home/user/ros2_ws/install/cartographer_slam/share/cartographer_slam/launch
+[1.416s] copying launch/cartographer.launch.py -> /home/user/ros2_ws/install/cartographer_slam/share/cartographer_slam/launch
+[1.417s] creating /home/user/ros2_ws/install/cartographer_slam/share/cartographer_slam/config
+[1.417s] copying config/cartographer.lua -> /home/user/ros2_ws/install/cartographer_slam/share/cartographer_slam/config
+[1.417s] running install_egg_info
+[1.417s] Copying ../../build/cartographer_slam/cartographer_slam.egg-info to /home/user/ros2_ws/install/cartographer_slam/lib/python3.10/site-packages/cartographer_slam-0.0.0-py3.10.egg-info
+[1.417s] running install_scripts
+[1.445s] writing list of installed files to '/home/user/ros2_ws/build/cartographer_slam/install.log'
+[1.474s] Invoked command in '/home/user/ros2_ws/src/cartographer_slam' returned '0': PYTHONPATH=/home/user/ros2_ws/build/cartographer_slam/prefix_override:/home/user/ros2_ws/install/cartographer_slam/lib/python3.10/site-packages:${PYTHONPATH} _=/usr/bin/env /usr/bin/python3 setup.py egg_info --egg-base ../../build/cartographer_slam build --build-base /home/user/ros2_ws/build/cartographer_slam/build install --record /home/user/ros2_ws/build/cartographer_slam/install.log --single-version-externally-managed

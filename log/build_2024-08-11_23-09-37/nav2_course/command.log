@@ -1,0 +1,4 @@
+Invoking command in '/home/user/ros2_ws/build/nav2_course': _=/usr/bin/env /usr/bin/cmake --build /home/user/ros2_ws/build/nav2_course -- -j8 -l8
+Invoked command in '/home/user/ros2_ws/build/nav2_course' returned '0': _=/usr/bin/env /usr/bin/cmake --build /home/user/ros2_ws/build/nav2_course -- -j8 -l8
+Invoking command in '/home/user/ros2_ws/build/nav2_course': _=/usr/bin/env /usr/bin/cmake --install /home/user/ros2_ws/build/nav2_course
+Invoked command in '/home/user/ros2_ws/build/nav2_course' returned '0': _=/usr/bin/env /usr/bin/cmake --install /home/user/ros2_ws/build/nav2_course

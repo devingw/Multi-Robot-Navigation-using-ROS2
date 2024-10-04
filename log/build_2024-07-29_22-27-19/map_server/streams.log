@@ -1,0 +1,30 @@
+[0.723s] Invoking command in '/home/user/ros2_ws/src/map_server': PYTHONPATH=/home/user/ros2_ws/build/map_server/prefix_override:/home/user/ros2_ws/install/map_server/lib/python3.10/site-packages:${PYTHONPATH} _=/usr/bin/env /usr/bin/python3 setup.py egg_info --egg-base ../../build/map_server build --build-base /home/user/ros2_ws/build/map_server/build install --record /home/user/ros2_ws/build/map_server/install.log --single-version-externally-managed
+[0.958s] running egg_info
+[0.959s] writing ../../build/map_server/map_server.egg-info/PKG-INFO
+[0.960s] writing dependency_links to ../../build/map_server/map_server.egg-info/dependency_links.txt
+[0.961s] writing entry points to ../../build/map_server/map_server.egg-info/entry_points.txt
+[0.961s] writing requirements to ../../build/map_server/map_server.egg-info/requires.txt
+[0.961s] writing top-level names to ../../build/map_server/map_server.egg-info/top_level.txt
+[0.962s] reading manifest file '../../build/map_server/map_server.egg-info/SOURCES.txt'
+[0.963s] writing manifest file '../../build/map_server/map_server.egg-info/SOURCES.txt'
+[0.963s] running build
+[0.963s] running build_py
+[0.963s] copying map_server/__init__.py -> /home/user/ros2_ws/build/map_server/build/lib/map_server
+[0.964s] running install
+[0.964s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[0.964s]   warnings.warn(
+[0.964s] running install_lib
+[0.965s] copying /home/user/ros2_ws/build/map_server/build/lib/map_server/__init__.py -> /home/user/ros2_ws/install/map_server/lib/python3.10/site-packages/map_server
+[0.965s] byte-compiling /home/user/ros2_ws/install/map_server/lib/python3.10/site-packages/map_server/__init__.py to __init__.cpython-310.pyc
+[0.965s] running install_data
+[0.966s] copying resource/map_server -> /home/user/ros2_ws/install/map_server/share/ament_index/resource_index/packages
+[0.966s] copying package.xml -> /home/user/ros2_ws/install/map_server/share/map_server
+[0.966s] copying launch/nav2_map_server.launch.py -> /home/user/ros2_ws/install/map_server/share/map_server/launch
+[0.966s] copying config/turtlebot_area.yaml -> /home/user/ros2_ws/install/map_server/share/map_server/config
+[0.966s] copying config/turtlebot_area.pgm -> /home/user/ros2_ws/install/map_server/share/map_server/config
+[0.966s] running install_egg_info
+[0.968s] removing '/home/user/ros2_ws/install/map_server/lib/python3.10/site-packages/map_server-0.0.0-py3.10.egg-info' (and everything under it)
+[0.968s] Copying ../../build/map_server/map_server.egg-info to /home/user/ros2_ws/install/map_server/lib/python3.10/site-packages/map_server-0.0.0-py3.10.egg-info
+[0.969s] running install_scripts
+[0.989s] writing list of installed files to '/home/user/ros2_ws/build/map_server/install.log'
+[1.011s] Invoked command in '/home/user/ros2_ws/src/map_server' returned '0': PYTHONPATH=/home/user/ros2_ws/build/map_server/prefix_override:/home/user/ros2_ws/install/map_server/lib/python3.10/site-packages:${PYTHONPATH} _=/usr/bin/env /usr/bin/python3 setup.py egg_info --egg-base ../../build/map_server build --build-base /home/user/ros2_ws/build/map_server/build install --record /home/user/ros2_ws/build/map_server/install.log --single-version-externally-managed

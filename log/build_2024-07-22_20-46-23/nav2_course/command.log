@@ -1,0 +1,6 @@
+Invoking command in '/home/user/ros2_ws/build/nav2_course': _=/usr/bin/env /usr/bin/cmake /home/user/ros2_ws/src/ros2_nav_files/nav2_course -DCMAKE_INSTALL_PREFIX=/home/user/ros2_ws/install/nav2_course
+Invoked command in '/home/user/ros2_ws/build/nav2_course' returned '0': _=/usr/bin/env /usr/bin/cmake /home/user/ros2_ws/src/ros2_nav_files/nav2_course -DCMAKE_INSTALL_PREFIX=/home/user/ros2_ws/install/nav2_course
+Invoking command in '/home/user/ros2_ws/build/nav2_course': _=/usr/bin/env /usr/bin/cmake --build /home/user/ros2_ws/build/nav2_course -- -j8 -l8
+Invoked command in '/home/user/ros2_ws/build/nav2_course' returned '0': _=/usr/bin/env /usr/bin/cmake --build /home/user/ros2_ws/build/nav2_course -- -j8 -l8
+Invoking command in '/home/user/ros2_ws/build/nav2_course': _=/usr/bin/env /usr/bin/cmake --install /home/user/ros2_ws/build/nav2_course
+Invoked command in '/home/user/ros2_ws/build/nav2_course' returned '0': _=/usr/bin/env /usr/bin/cmake --install /home/user/ros2_ws/build/nav2_course

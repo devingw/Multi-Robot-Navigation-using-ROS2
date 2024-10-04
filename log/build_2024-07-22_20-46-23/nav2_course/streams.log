@@ -1,0 +1,75 @@
+[0.139s] Invoking command in '/home/user/ros2_ws/build/nav2_course': _=/usr/bin/env /usr/bin/cmake /home/user/ros2_ws/src/ros2_nav_files/nav2_course -DCMAKE_INSTALL_PREFIX=/home/user/ros2_ws/install/nav2_course
+[0.362s] -- The C compiler identification is GNU 11.4.0
+[0.548s] -- The CXX compiler identification is GNU 11.4.0
+[0.555s] -- Detecting C compiler ABI info
+[0.647s] -- Detecting C compiler ABI info - done
+[0.656s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.656s] -- Detecting C compile features
+[0.657s] -- Detecting C compile features - done
+[0.661s] -- Detecting CXX compiler ABI info
+[0.758s] -- Detecting CXX compiler ABI info - done
+[0.768s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.768s] -- Detecting CXX compile features
+[0.769s] -- Detecting CXX compile features - done
+[0.783s] -- Found ament_cmake: 1.3.5 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.995s] -- Found Python3: /usr/bin/python3.10 (found version "3.10.12") found components: Interpreter 
+[1.202s] -- Found nav2_common: 1.1.12 (/opt/ros/humble/share/nav2_common/cmake)
+[1.211s] -- Found navigation2: 1.1.6 (/opt/ros/humble/share/navigation2/cmake)
+[1.211s] -- Setting build type to Release as none was specified.
+[1.217s] -- Found ament_lint_auto: 0.12.8 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[1.455s] -- Added test 'copyright' to check source files copyright and LICENSE
+[1.461s] -- Added test 'flake8' to check Python code syntax and style conventions
+[1.463s] -- Added test 'lint_cmake' to check CMake code style
+[1.464s] -- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+[1.469s] -- Added test 'xmllint' to check XML markup files
+[1.472s] -- Configuring done
+[1.475s] -- Generating done
+[1.476s] -- Build files have been written to: /home/user/ros2_ws/build/nav2_course
+[1.481s] Invoked command in '/home/user/ros2_ws/build/nav2_course' returned '0': _=/usr/bin/env /usr/bin/cmake /home/user/ros2_ws/src/ros2_nav_files/nav2_course -DCMAKE_INSTALL_PREFIX=/home/user/ros2_ws/install/nav2_course
+[1.484s] Invoking command in '/home/user/ros2_ws/build/nav2_course': _=/usr/bin/env /usr/bin/cmake --build /home/user/ros2_ws/build/nav2_course -- -j8 -l8
+[1.523s] Invoked command in '/home/user/ros2_ws/build/nav2_course' returned '0': _=/usr/bin/env /usr/bin/cmake --build /home/user/ros2_ws/build/nav2_course -- -j8 -l8
+[1.564s] Invoking command in '/home/user/ros2_ws/build/nav2_course': _=/usr/bin/env /usr/bin/cmake --install /home/user/ros2_ws/build/nav2_course
+[1.570s] -- Install configuration: "Release"
+[1.570s] -- Installing: /home/user/ros2_ws/install/nav2_course/share/nav2_course/launch
+[1.570s] -- Installing: /home/user/ros2_ws/install/nav2_course/share/nav2_course/launch/map_saver.launch.py
+[1.570s] -- Installing: /home/user/ros2_ws/install/nav2_course/share/nav2_course/launch/localization_launch.py
+[1.571s] -- Installing: /home/user/ros2_ws/install/nav2_course/share/nav2_course/launch/rviz.launch.py
+[1.571s] -- Installing: /home/user/ros2_ws/install/nav2_course/share/nav2_course/launch/map_server_launch.py
+[1.571s] -- Installing: /home/user/ros2_ws/install/nav2_course/share/nav2_course/launch/nav2_demo.launch.py
+[1.571s] -- Installing: /home/user/ros2_ws/install/nav2_course/share/nav2_course/launch/tb3_world_navigation_with_tools_launch.py
+[1.571s] -- Installing: /home/user/ros2_ws/install/nav2_course/share/nav2_course/launch/nav2_complete.launch.py
+[1.571s] -- Installing: /home/user/ros2_ws/install/nav2_course/share/nav2_course/launch/navigation2_launch.py
+[1.572s] -- Installing: /home/user/ros2_ws/install/nav2_course/share/nav2_course/config
+[1.572s] -- Installing: /home/user/ros2_ws/install/nav2_course/share/nav2_course/config/nav2_house_sim_params.yaml
+[1.572s] -- Installing: /home/user/ros2_ws/install/nav2_course/share/nav2_course/config/navigate_w_replanning_and_recovery_old.xml
+[1.572s] -- Installing: /home/user/ros2_ws/install/nav2_course/share/nav2_course/config/turtlebot3_world.yaml
+[1.572s] -- Installing: /home/user/ros2_ws/install/nav2_course/share/nav2_course/config/turtlebot3_world.pgm
+[1.572s] -- Installing: /home/user/ros2_ws/install/nav2_course/share/nav2_course/config/default.rviz
+[1.572s] -- Installing: /home/user/ros2_ws/install/nav2_course/share/nav2_course/config/navigate_w_replanning_and_recovery.xml
+[1.573s] -- Installing: /home/user/ros2_ws/install/nav2_course/share/nav2_course/config/nav2_default_view.rviz
+[1.573s] -- Installing: /home/user/ros2_ws/install/nav2_course/share/nav2_course/config/nav2.yaml
+[1.573s] -- Installing: /home/user/ros2_ws/install/nav2_course/share/nav2_course/config/localization_params.yaml
+[1.573s] -- Installing: /home/user/ros2_ws/install/nav2_course/share/nav2_course/config/nav2_params.yaml
+[1.573s] -- Installing: /home/user/ros2_ws/install/nav2_course/share/nav2_course/worlds
+[1.573s] -- Installing: /home/user/ros2_ws/install/nav2_course/share/nav2_course/worlds/waffle.model
+[1.574s] -- Installing: /home/user/ros2_ws/install/nav2_course/share/nav2_course/worlds/world_only.model
+[1.574s] -- Installing: /home/user/ros2_ws/install/nav2_course/share/nav2_course/worlds/house_waffle.model
+[1.574s] -- Installing: /home/user/ros2_ws/install/nav2_course/share/nav2_course/maps
+[1.574s] -- Installing: /home/user/ros2_ws/install/nav2_course/share/nav2_course/maps/turtlebot_area.yaml
+[1.574s] -- Installing: /home/user/ros2_ws/install/nav2_course/share/nav2_course/maps/turtlebot_area.pgm
+[1.574s] -- Installing: /home/user/ros2_ws/install/nav2_course/share/ament_index/resource_index/package_run_dependencies/nav2_course
+[1.575s] -- Installing: /home/user/ros2_ws/install/nav2_course/share/ament_index/resource_index/parent_prefix_path/nav2_course
+[1.575s] -- Installing: /home/user/ros2_ws/install/nav2_course/share/nav2_course/environment/ament_prefix_path.sh
+[1.575s] -- Installing: /home/user/ros2_ws/install/nav2_course/share/nav2_course/environment/ament_prefix_path.dsv
+[1.575s] -- Installing: /home/user/ros2_ws/install/nav2_course/share/nav2_course/environment/path.sh
+[1.575s] -- Installing: /home/user/ros2_ws/install/nav2_course/share/nav2_course/environment/path.dsv
+[1.575s] -- Installing: /home/user/ros2_ws/install/nav2_course/share/nav2_course/local_setup.bash
+[1.576s] -- Installing: /home/user/ros2_ws/install/nav2_course/share/nav2_course/local_setup.sh
+[1.576s] -- Installing: /home/user/ros2_ws/install/nav2_course/share/nav2_course/local_setup.zsh
+[1.576s] -- Installing: /home/user/ros2_ws/install/nav2_course/share/nav2_course/local_setup.dsv
+[1.576s] -- Installing: /home/user/ros2_ws/install/nav2_course/share/nav2_course/package.dsv
+[1.576s] -- Installing: /home/user/ros2_ws/install/nav2_course/share/ament_index/resource_index/packages/nav2_course
+[1.576s] -- Installing: /home/user/ros2_ws/install/nav2_course/share/nav2_course/cmake/nav2_courseConfig.cmake
+[1.576s] -- Installing: /home/user/ros2_ws/install/nav2_course/share/nav2_course/cmake/nav2_courseConfig-version.cmake
+[1.576s] -- Installing: /home/user/ros2_ws/install/nav2_course/share/nav2_course/package.xml
+[1.578s] Invoked command in '/home/user/ros2_ws/build/nav2_course' returned '0': _=/usr/bin/env /usr/bin/cmake --install /home/user/ros2_ws/build/nav2_course

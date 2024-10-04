@@ -1,0 +1,22 @@
+[2.671s] Invoking command in '/home/user/ros2_ws/src/localization_sever': PYTHONPATH=/home/user/ros2_ws/build/localization_sever/prefix_override:/home/user/ros2_ws/install/localization_sever/lib/python3.10/site-packages:${PYTHONPATH} _=/usr/bin/env /usr/bin/python3 setup.py egg_info --egg-base ../../build/localization_sever build --build-base /home/user/ros2_ws/build/localization_sever/build install --record /home/user/ros2_ws/build/localization_sever/install.log --single-version-externally-managed
+[3.427s] running egg_info
+[3.428s] writing ../../build/localization_sever/localization_sever.egg-info/PKG-INFO
+[3.429s] writing dependency_links to ../../build/localization_sever/localization_sever.egg-info/dependency_links.txt
+[3.429s] writing entry points to ../../build/localization_sever/localization_sever.egg-info/entry_points.txt
+[3.430s] writing requirements to ../../build/localization_sever/localization_sever.egg-info/requires.txt
+[3.432s] writing top-level names to ../../build/localization_sever/localization_sever.egg-info/top_level.txt
+[3.433s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[3.433s]   warnings.warn(
+[3.433s] reading manifest file '../../build/localization_sever/localization_sever.egg-info/SOURCES.txt'
+[3.433s] writing manifest file '../../build/localization_sever/localization_sever.egg-info/SOURCES.txt'
+[3.433s] running build
+[3.434s] running build_py
+[3.434s] running install
+[3.434s] running install_lib
+[3.435s] running install_data
+[3.435s] running install_egg_info
+[3.435s] removing '/home/user/ros2_ws/install/localization_sever/lib/python3.10/site-packages/localization_sever-0.0.0-py3.10.egg-info' (and everything under it)
+[3.436s] Copying ../../build/localization_sever/localization_sever.egg-info to /home/user/ros2_ws/install/localization_sever/lib/python3.10/site-packages/localization_sever-0.0.0-py3.10.egg-info
+[3.437s] running install_scripts
+[3.488s] writing list of installed files to '/home/user/ros2_ws/build/localization_sever/install.log'
+[3.570s] Invoked command in '/home/user/ros2_ws/src/localization_sever' returned '0': PYTHONPATH=/home/user/ros2_ws/build/localization_sever/prefix_override:/home/user/ros2_ws/install/localization_sever/lib/python3.10/site-packages:${PYTHONPATH} _=/usr/bin/env /usr/bin/python3 setup.py egg_info --egg-base ../../build/localization_sever build --build-base /home/user/ros2_ws/build/localization_sever/build install --record /home/user/ros2_ws/build/localization_sever/install.log --single-version-externally-managed

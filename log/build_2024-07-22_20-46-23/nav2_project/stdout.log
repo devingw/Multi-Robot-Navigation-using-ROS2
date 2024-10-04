@@ -1,0 +1,54 @@
+running egg_info
+creating ../../../build/nav2_project/nav2_project.egg-info
+writing ../../../build/nav2_project/nav2_project.egg-info/PKG-INFO
+writing dependency_links to ../../../build/nav2_project/nav2_project.egg-info/dependency_links.txt
+writing entry points to ../../../build/nav2_project/nav2_project.egg-info/entry_points.txt
+writing requirements to ../../../build/nav2_project/nav2_project.egg-info/requires.txt
+writing top-level names to ../../../build/nav2_project/nav2_project.egg-info/top_level.txt
+writing manifest file '../../../build/nav2_project/nav2_project.egg-info/SOURCES.txt'
+reading manifest file '../../../build/nav2_project/nav2_project.egg-info/SOURCES.txt'
+writing manifest file '../../../build/nav2_project/nav2_project.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/user/ros2_ws/build/nav2_project/build
+creating /home/user/ros2_ws/build/nav2_project/build/lib
+creating /home/user/ros2_ws/build/nav2_project/build/lib/nav2_project
+copying nav2_project/__init__.py -> /home/user/ros2_ws/build/nav2_project/build/lib/nav2_project
+copying nav2_project/spot_recorder.py -> /home/user/ros2_ws/build/nav2_project/build/lib/nav2_project
+copying nav2_project/go_to_pose.py -> /home/user/ros2_ws/build/nav2_project/build/lib/nav2_project
+running install
+running install_lib
+creating /home/user/ros2_ws/install/nav2_project/lib/python3.10/site-packages/nav2_project
+copying /home/user/ros2_ws/build/nav2_project/build/lib/nav2_project/__init__.py -> /home/user/ros2_ws/install/nav2_project/lib/python3.10/site-packages/nav2_project
+copying /home/user/ros2_ws/build/nav2_project/build/lib/nav2_project/spot_recorder.py -> /home/user/ros2_ws/install/nav2_project/lib/python3.10/site-packages/nav2_project
+copying /home/user/ros2_ws/build/nav2_project/build/lib/nav2_project/go_to_pose.py -> /home/user/ros2_ws/install/nav2_project/lib/python3.10/site-packages/nav2_project
+byte-compiling /home/user/ros2_ws/install/nav2_project/lib/python3.10/site-packages/nav2_project/__init__.py to __init__.cpython-310.pyc
+byte-compiling /home/user/ros2_ws/install/nav2_project/lib/python3.10/site-packages/nav2_project/spot_recorder.py to spot_recorder.cpython-310.pyc
+byte-compiling /home/user/ros2_ws/install/nav2_project/lib/python3.10/site-packages/nav2_project/go_to_pose.py to go_to_pose.cpython-310.pyc
+running install_data
+creating /home/user/ros2_ws/install/nav2_project/share/ament_index
+creating /home/user/ros2_ws/install/nav2_project/share/ament_index/resource_index
+creating /home/user/ros2_ws/install/nav2_project/share/ament_index/resource_index/packages
+copying resource/nav2_project -> /home/user/ros2_ws/install/nav2_project/share/ament_index/resource_index/packages
+copying package.xml -> /home/user/ros2_ws/install/nav2_project/share/nav2_project
+creating /home/user/ros2_ws/install/nav2_project/share/nav2_project/launch
+copying launch/project_map_server.launch.py -> /home/user/ros2_ws/install/nav2_project/share/nav2_project/launch
+copying launch/cartographer.launch.py -> /home/user/ros2_ws/install/nav2_project/share/nav2_project/launch
+copying launch/nav2_project.launch.py -> /home/user/ros2_ws/install/nav2_project/share/nav2_project/launch
+copying launch/project_navigation_with_tools_launch.py -> /home/user/ros2_ws/install/nav2_project/share/nav2_project/launch
+copying launch/go_to_pose.launch.py -> /home/user/ros2_ws/install/nav2_project/share/nav2_project/launch
+creating /home/user/ros2_ws/install/nav2_project/share/nav2_project/config
+copying config/turtlebot3_house.yaml -> /home/user/ros2_ws/install/nav2_project/share/nav2_project/config
+copying config/nav2_project.yaml -> /home/user/ros2_ws/install/nav2_project/share/nav2_project/config
+copying config/project_params.yaml -> /home/user/ros2_ws/install/nav2_project/share/nav2_project/config
+copying config/spot-list.yaml -> /home/user/ros2_ws/install/nav2_project/share/nav2_project/config
+copying config/turtlebot3_house.pgm -> /home/user/ros2_ws/install/nav2_project/share/nav2_project/config
+copying config/nav2_default_view.rviz -> /home/user/ros2_ws/install/nav2_project/share/nav2_project/config
+copying config/navigate_w_replanning_and_recovery.xml -> /home/user/ros2_ws/install/nav2_project/share/nav2_project/config
+copying config/cartographer.lua -> /home/user/ros2_ws/install/nav2_project/share/nav2_project/config
+running install_egg_info
+Copying ../../../build/nav2_project/nav2_project.egg-info to /home/user/ros2_ws/install/nav2_project/lib/python3.10/site-packages/nav2_project-0.0.0-py3.10.egg-info
+running install_scripts
+Installing go_to_pose script to /home/user/ros2_ws/install/nav2_project/lib/nav2_project
+Installing spot_recorder script to /home/user/ros2_ws/install/nav2_project/lib/nav2_project
+writing list of installed files to '/home/user/ros2_ws/build/nav2_project/install.log'

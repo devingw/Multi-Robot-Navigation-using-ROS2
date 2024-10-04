@@ -1,0 +1,26 @@
+[4.514s] Invoking command in '/home/user/ros2_ws/src/localization_server': PYTHONPATH=/home/user/ros2_ws/build/localization_server/prefix_override:/home/user/ros2_ws/install/localization_server/lib/python3.10/site-packages:${PYTHONPATH} _=/usr/bin/env /usr/bin/python3 setup.py egg_info --egg-base ../../build/localization_server build --build-base /home/user/ros2_ws/build/localization_server/build install --record /home/user/ros2_ws/build/localization_server/install.log --single-version-externally-managed
+[5.498s] running egg_info
+[5.499s] writing ../../build/localization_server/localization_server.egg-info/PKG-INFO
+[5.500s] writing dependency_links to ../../build/localization_server/localization_server.egg-info/dependency_links.txt
+[5.500s] writing entry points to ../../build/localization_server/localization_server.egg-info/entry_points.txt
+[5.500s] writing requirements to ../../build/localization_server/localization_server.egg-info/requires.txt
+[5.500s] writing top-level names to ../../build/localization_server/localization_server.egg-info/top_level.txt
+[5.503s] reading manifest file '../../build/localization_server/localization_server.egg-info/SOURCES.txt'
+[5.556s] writing manifest file '../../build/localization_server/localization_server.egg-info/SOURCES.txt'
+[5.557s] running build
+[5.560s] running build_py
+[5.560s] running install
+[5.561s] running install_lib
+[5.561s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[5.561s]   warnings.warn(
+[5.561s] running install_data
+[5.561s] copying launch/multi_localization.launch.py -> /home/user/ros2_ws/install/localization_server/share/localization_server/launch
+[5.561s] copying config/tb3_1_amcl_config.yaml -> /home/user/ros2_ws/install/localization_server/share/localization_server/config
+[5.562s] copying config/tb3_0_amcl_config.yaml -> /home/user/ros2_ws/install/localization_server/share/localization_server/config
+[5.564s] running install_egg_info
+[5.567s] removing '/home/user/ros2_ws/install/localization_server/lib/python3.10/site-packages/localization_server-0.0.0-py3.10.egg-info' (and everything under it)
+[5.577s] Copying ../../build/localization_server/localization_server.egg-info to /home/user/ros2_ws/install/localization_server/lib/python3.10/site-packages/localization_server-0.0.0-py3.10.egg-info
+[5.577s] running install_scripts
+[5.664s] Installing initial_pose_pub script to /home/user/ros2_ws/install/localization_server/lib/localization_server
+[5.664s] writing list of installed files to '/home/user/ros2_ws/build/localization_server/install.log'
+[5.795s] Invoked command in '/home/user/ros2_ws/src/localization_server' returned '0': PYTHONPATH=/home/user/ros2_ws/build/localization_server/prefix_override:/home/user/ros2_ws/install/localization_server/lib/python3.10/site-packages:${PYTHONPATH} _=/usr/bin/env /usr/bin/python3 setup.py egg_info --egg-base ../../build/localization_server build --build-base /home/user/ros2_ws/build/localization_server/build install --record /home/user/ros2_ws/build/localization_server/install.log --single-version-externally-managed

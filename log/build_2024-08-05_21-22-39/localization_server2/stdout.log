@@ -1,0 +1,31 @@
+running egg_info
+creating ../../build/localization_server2/localization_server2.egg-info
+writing ../../build/localization_server2/localization_server2.egg-info/PKG-INFO
+writing dependency_links to ../../build/localization_server2/localization_server2.egg-info/dependency_links.txt
+writing entry points to ../../build/localization_server2/localization_server2.egg-info/entry_points.txt
+writing requirements to ../../build/localization_server2/localization_server2.egg-info/requires.txt
+writing top-level names to ../../build/localization_server2/localization_server2.egg-info/top_level.txt
+writing manifest file '../../build/localization_server2/localization_server2.egg-info/SOURCES.txt'
+reading manifest file '../../build/localization_server2/localization_server2.egg-info/SOURCES.txt'
+writing manifest file '../../build/localization_server2/localization_server2.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/user/ros2_ws/build/localization_server2/build
+creating /home/user/ros2_ws/build/localization_server2/build/lib
+creating /home/user/ros2_ws/build/localization_server2/build/lib/localization_server2
+copying localization_server2/__init__.py -> /home/user/ros2_ws/build/localization_server2/build/lib/localization_server2
+running install
+running install_lib
+creating /home/user/ros2_ws/install/localization_server2/lib/python3.10/site-packages/localization_server2
+copying /home/user/ros2_ws/build/localization_server2/build/lib/localization_server2/__init__.py -> /home/user/ros2_ws/install/localization_server2/lib/python3.10/site-packages/localization_server2
+byte-compiling /home/user/ros2_ws/install/localization_server2/lib/python3.10/site-packages/localization_server2/__init__.py to __init__.cpython-310.pyc
+running install_data
+creating /home/user/ros2_ws/install/localization_server2/share/ament_index
+creating /home/user/ros2_ws/install/localization_server2/share/ament_index/resource_index
+creating /home/user/ros2_ws/install/localization_server2/share/ament_index/resource_index/packages
+copying resource/localization_server2 -> /home/user/ros2_ws/install/localization_server2/share/ament_index/resource_index/packages
+copying package.xml -> /home/user/ros2_ws/install/localization_server2/share/localization_server2
+running install_egg_info
+Copying ../../build/localization_server2/localization_server2.egg-info to /home/user/ros2_ws/install/localization_server2/lib/python3.10/site-packages/localization_server2-0.0.0-py3.10.egg-info
+running install_scripts
+writing list of installed files to '/home/user/ros2_ws/build/localization_server2/install.log'

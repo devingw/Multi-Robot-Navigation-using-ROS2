@@ -1,0 +1,8 @@
+[0.000000] (-) TimerEvent: {}
+[0.002146] (-) JobUnselected: {'identifier': 'cartographer_slam'}
+[0.002221] (-) JobUnselected: {'identifier': 'localization_server2'}
+[0.002245] (-) JobUnselected: {'identifier': 'localization_sever'}
+[0.002261] (-) JobUnselected: {'identifier': 'map_server'}
+[0.002277] (-) JobUnselected: {'identifier': 'nav2_course'}
+[0.002296] (-) JobUnselected: {'identifier': 'nav2_project'}
+[0.002312] (-) EventReactorShutdown: {}
