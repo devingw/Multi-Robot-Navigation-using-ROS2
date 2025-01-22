@@ -4,7 +4,9 @@
 
 This code allows two robots to move to a target position whilst avoiding obstacles and each other.
 
-The following video shows a demo of the code on RViz2. (https://youtu.be/ICwPvpX2lRA)
+The following video and GIF show a demo of the code. (https://youtu.be/ICwPvpX2lRA)
+
+![Visualisation](./images/navigationmulti_1.gif)
 
 
 ## Useful Links
